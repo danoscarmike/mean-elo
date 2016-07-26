@@ -1,0 +1,10 @@
+{
+  "name": "mean-elo-api",
+  "main": "server.js",
+  "dependencies": {
+    "express" : "~4.14.0",
+    "mongodb" : "~2.2.4",
+    "mongoose" : "~4.5.7",
+    "async" : "2.0.1"
+  }
+}
