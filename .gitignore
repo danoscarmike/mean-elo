@@ -1,7 +1,7 @@
 # Security and config files #
 #############################
-./config/security.js
-./config/stormpath_apikey.properties
+security.js
+stormpath_apikey.properties
 
 # Compiled source #
 ###################
